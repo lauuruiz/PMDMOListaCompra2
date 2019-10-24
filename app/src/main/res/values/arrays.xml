@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lacteos">
+        <item>Leche 1€</item>
+        <item>Queso 2€</item>
+        <item>Yogurt 3€</item>
+    </string-array>
+
+    <integer-array name="precioLacteos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="carne">
+        <item>Ternera 1€</item>
+        <item>Cerdo 2€</item>
+        <item>Pollo 3€</item>
+    </string-array>
+
+    <integer-array name="precioCarne">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="pescado">
+        <item>Aguja 1€</item>
+        <item>Gambas 2€</item>
+        <item>Cangrejo 3€</item>
+    </string-array>
+
+    <integer-array name="precioPescado">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="verdura">
+        <item>Zanahoria 1 €</item>
+        <item>Lechuga 2 €</item>
+        <item>Espinacas 3 €</item>
+    </string-array>
+
+    <integer-array name="precioVerdura">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+</resources>
